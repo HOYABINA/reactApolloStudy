@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Component } from 'react';
 import client from "./apolloClient";
 import {ApolloProvider} from "react-apollo";
 
